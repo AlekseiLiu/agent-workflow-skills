@@ -1,0 +1,7 @@
+{
+  "name": "agent-workflow-skills",
+  "version": "0.1.0",
+  "description": "Orchestration, outside-review, prompt-refinement and execution-brief skills",
+  "author": { "name": "AlekseiLiu" },
+  "skills": "./skills/"
+}

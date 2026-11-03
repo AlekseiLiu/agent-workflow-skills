@@ -1,0 +1,12 @@
+{
+  "name": "agent-workflow-skills",
+  "description": "Agent workflow skills by AlekseiLiu",
+  "owner": { "name": "AlekseiLiu" },
+  "plugins": [
+    {
+      "name": "agent-workflow-skills",
+      "description": "Orchestration, outside-review, prompt-refinement and execution-brief skills",
+      "source": "./"
+    }
+  ]
+}

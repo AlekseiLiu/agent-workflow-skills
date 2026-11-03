@@ -1,0 +1,7 @@
+{
+  "name": "agent-workflow-skills",
+  "version": "0.1.0",
+  "description": "Orchestration, outside-review, prompt-refinement and execution-brief skills",
+  "keywords": ["pi-package", "skills"],
+  "pi": { "skills": ["./skills"] }
+}
